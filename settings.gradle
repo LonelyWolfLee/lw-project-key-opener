@@ -1,0 +1,3 @@
+rootProject.name = "lw-project-key-opener"
+
+include("lw-key-project")
